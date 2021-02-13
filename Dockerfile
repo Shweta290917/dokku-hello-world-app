@@ -2,13 +2,14 @@
 
 FROM ubuntu:trusty
 
-MAINTAINER Devin Nguyen <devin2712@gmail.com>
+MAINTAINER Shweta <shweta11081991@gmail.com>
 
 RUN apt-get update -y
 RUN apt-get -qq update -y
 
 RUN apt-get install -y nodejs-legacy
 RUN apt-get install -y npm
+RUN npm install -g express
 
 VOLUME ["/data"]
 
