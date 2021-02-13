@@ -1,0 +1,14 @@
+{
+  "name": "onpoint",
+  "version": "0.0.1",
+  "description": "simple hello world nodejs server",
+  "author": "devin2712@gmail.com",
+  "dependencies": {
+    "express": "*.*.*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "index.js",
+  "license": "ISC"
+}
