@@ -2,7 +2,7 @@
   "name": "onpoint",
   "version": "0.0.1",
   "description": "simple hello world nodejs server",
-  "author": "devin2712@gmail.com",
+  "author": "shweta11081991@gmail.com",
   "dependencies": {
     "express": "*.*.*"
   },
